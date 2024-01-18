@@ -1,0 +1,41 @@
+
+# Directorios específicos de Java y Eclipse
+bin/
+target/
+.settings/
+
+# Archivos generados por el IDE
+.classpath
+.project
+
+# Archivos de configuración del sistema
+.settings/
+*.iml
+
+# Log y archivos temporales
+log/
+*.log
+*.tmp
+
+# Carpeta de dependencias
+lib/
+
+# Archivos de compilación
+*.class
+
+# Archivos generados por servlets y JSP
+*.class
+*.jar
+*.war
+*.ear
+
+# Archivos de configuración de Eclipse
+*.launch
+*.swp
+
+# Archivos de respaldo
+*~
+
+# Archivos de configuración específicos de sistemas operativos
+.DS_Store
+Thumbs.db
