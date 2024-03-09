@@ -1,7 +1,0 @@
-{
-  "name": "ohahsis",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "react-vite"
-}
